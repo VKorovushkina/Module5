@@ -1,3 +1,4 @@
+package ru.courses.main;
 import ru.courses.geometry.Circle;
 import ru.courses.geometry.Point;
 import ru.courses.geometry.Square;
