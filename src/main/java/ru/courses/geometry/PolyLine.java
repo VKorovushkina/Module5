@@ -1,3 +1,7 @@
+package ru.courses.geometry;
+
+import ru.courses.interfaces.Summable;
+
 public class PolyLine implements Summable {
     Point[] points;
 

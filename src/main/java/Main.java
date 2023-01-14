@@ -1,3 +1,10 @@
+import ru.courses.geometry.Circle;
+import ru.courses.geometry.Point;
+import ru.courses.geometry.Square;
+import ru.courses.interfaces.Areable;
+import ru.courses.interfaces.Singable;
+import ru.courses.interfaces.Summable;
+
 public class Main {
     public static void main(String[] args) {
 

@@ -1,4 +1,9 @@
-public class PolyLineClosed extends PolyLine{
+package ru.courses.geometry;
+
+import ru.courses.geometry.Point;
+import ru.courses.geometry.PolyLine;
+
+public class PolyLineClosed extends PolyLine {
 
     public PolyLineClosed(Point...points) {
         super(points);

@@ -1,3 +1,5 @@
+package ru.courses.people;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,6 +22,6 @@ public final class Student{
     }
 
     public String toString() {
-        return "Student{" + " grades =" + grades + ", name=" + name + '}';
+        return "ru.courses.people.Student{" + " grades =" + grades + ", name=" + name + '}';
     }
 }

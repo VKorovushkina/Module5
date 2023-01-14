@@ -1,6 +1,8 @@
+package ru.courses.birds;
+import ru.courses.interfaces.Singable;
 import java.util.Random;
 
-public class Cuckoo extends Bird implements Singable{
+public class Cuckoo extends Bird implements Singable {
     @Override
     public void sing() {
         Random rand=new Random();

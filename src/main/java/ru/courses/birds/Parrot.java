@@ -1,6 +1,9 @@
+package ru.courses.birds;
+import ru.courses.interfaces.Singable;
+
 import java.util.Random;
 
-public class Parrot extends Bird implements Singable{
+public class Parrot extends Bird implements Singable {
     String text;
 
     public Parrot(String text){

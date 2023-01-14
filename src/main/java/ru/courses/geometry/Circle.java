@@ -1,3 +1,7 @@
+package ru.courses.geometry;
+
+import ru.courses.geometry.Figure;
+
 public class Circle extends Figure {
     Point point;
     int r;
